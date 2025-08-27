@@ -8,9 +8,7 @@ Error-bounded compression of 3-D traveltime tables (ABS/REL) with SZ2, plus MATL
 - Millisecond-level accuracy preserved at ≈3–7× size reduction (see paper).
 
 ## 1. Data
-`data/TTP_overthrust_20_single.mat` — real traveltime table used in our tests (grid spacing 20 m).
-
- If this file is large, Git LFS is recommended. See `.gitattributes`.
+You can download this file from https://github.com/zhouyj520/tt_sz2_traveltime/releases/tag/v1.1.0.
 
 ## 2. Dependencies
 - **SZ2** (upstream): https://github.com/szcompressor/SZ2  
