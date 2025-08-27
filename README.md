@@ -26,7 +26,7 @@ python src/python/compress_abs.py \
   --abs 1e-5 \
   --out results/abs
 
-# REL compression (relative error bound, e.g., 1e-5 of global range)
+# REL compression (relative error bound, e.g., 1e-5)
 python src/python/compress_rel.py \
   --input data/TTP_overthrust_20_single.mat \
   --rel 1e-5 \
