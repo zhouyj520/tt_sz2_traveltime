@@ -15,8 +15,8 @@ Error-bounded compression of 3-D traveltime tables (ABS/REL) with SZ2, plus MATL
 ## 2. Dependencies
 - **SZ2** (upstream): https://github.com/szcompressor/SZ2  
   Build SZ2 (CMake ≥3.16; GCC/Clang/MSVC). Make sure the CLI or shared lib is in PATH/LD_LIBRARY_PATH.
-- Python ≥3.9: `pip install -r requirements.txt`
-- MATLAB R2019b+ (tested): for plotting
+- Python ≥3.9
+- MATLAB R2019b+ (tested)
 
 ## 3. Quick start
 ```bash
