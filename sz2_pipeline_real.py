@@ -2,7 +2,7 @@
 """
 Traveltime .mat -> .dat(4D) -> SZ2 compress/decompress -> error & compression ratio CSV
 Example:
-  python cs.py \
+  python sz2_pipeline_real.py \
     --mat TTP_overthrust_20_single.mat \
     --var auto \
     --mode BOTH \
