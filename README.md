@@ -1,6 +1,6 @@
 # tt_sz2_traveltime
 
-Python scripts to evaluate **SZ2** compression on 3D/4D traveltime tables  
+Python scripts to evaluate **SZ2** compression on 3D traveltime tables  
 and reproduce localization error statistics.
 
 ---
